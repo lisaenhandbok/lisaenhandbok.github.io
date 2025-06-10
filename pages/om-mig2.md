@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title:  "Om Mig 2
-subheadline:  "Vilken kvinna"
+title: "Om mig 2"
+subheadline: "Vilken kvinna"
 teaser: "Mycket bilder på dom här sidorna"
 header:
-   image_fullwidth: header3.png
+   image_fullwidth: "header3.png"
 permalink: "/om-mig2/"
 categories:
     - om-mig
