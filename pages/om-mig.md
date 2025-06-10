@@ -3,8 +3,11 @@ layout: page-fullwidth
 title: "Om mig"
 subheadline: "En författares beskrivning av sigsjälv"
 teaser: "Ett av alternativen till en om mig sida, här kan vi länka till någon annan plats eller så..."
+header:
+   image_fullwidth: "header1.png"
+permalink: "/om-mig/"
 categories:
-    - design
+    - om-mig
 ---
 <!--more-->
 

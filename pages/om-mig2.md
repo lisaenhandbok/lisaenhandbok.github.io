@@ -4,9 +4,9 @@ title:  "Om Mig 2
 subheadline:  "Vilken kvinna"
 teaser: "Mycket bilder på dom här sidorna"
 categories:
-    - design
+    - om-mig
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: header3.png
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
