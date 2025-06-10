@@ -6,6 +6,13 @@
   url: "/om-boken/"
   side: left
 
+- title: Om mig
+  url: "/om-mig/"
+  side: left
+  dropdown:
+  - title: "Om mig 2"
+    url: "/om-mig2/"
+  
 - title: "Templates"
   url: "/design/"
   side: left
