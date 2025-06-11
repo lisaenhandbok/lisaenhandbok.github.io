@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Minska skärmtid – en konkret handbok för dig med barn 1–10 år"
-subheadline:  "Skapa mer lek, fantasi och lugn i vardagen."
+subheadline:  "EN HANDBOK FÖR DIG SOM VILL TESTA NÅGOT ANNAT"
 teaser: "Vill du minska skärmtiden hemma men vet inte var du ska börja?"
 # categories:
 #    - design
