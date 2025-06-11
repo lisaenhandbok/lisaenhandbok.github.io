@@ -1,9 +1,12 @@
 ---
 layout              : page
 title               : "Kontakt"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+meta_title          : "Minska skärmtid – en konkret handbok för dig med barn 1–10 år"
+subheadline         : ""
+teaser              : "Vill du komma i kontakt med mig?"
 permalink           : "/kontakt/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+Maila mig på lisa@enhandbok.se eller skriv på [Instagram][1]
+
+
+[1]: https://www.instagram.com/enhandbok/
