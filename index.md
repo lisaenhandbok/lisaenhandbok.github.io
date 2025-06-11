@@ -8,6 +8,23 @@ teaser: "Vill du minska skärmtiden men vet inte var du ska börja?"
 header:
    image_fullwidth: header3.png
 ---
+Är du trött på tjat om skärmar? Är det en ständig förhandling? Kanske upplever du att ditt barn har svårt att leka själv - och gärna vill se på något istället. 
+
+Eller så upplever du inte att ni har något stort problem, 
+men har börjat fundera - vad skulle hända om vi testade något annat?
+
+Den här boken är till för dig som vill skapa en vardag med mer lek, mer fantasi – utan att det blir en kamp.
+
+Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde. 
+Resultatet förvånade oss. Och det var mycket enklare än vi föreställt oss.
+
+Den här boken samlar allt vi lärt oss, verktyg och tips
+Och i den här boken delar vi med oss av allt vi lärde oss – plus verktyg, rutiner och stöd från forskning och andra familjer.
+
+Det behöver inte vara perfekt.
+Men det kan vara möjligt.
+
+
 Den här lättlästa e-boken hjälper dig att skapa lugnare dagar – med färre konflikter, mer fantasi och skärmvanor som inte tar över.
 
 - Baserad på forskning, riktiga familjers erfarenheter och konkreta verktyg som fungerar.
