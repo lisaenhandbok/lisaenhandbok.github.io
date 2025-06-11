@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title:  "Minska skärmtid – en väg till mer lek, fantasi och lugn"
-subheadline:  "EN HANDBOK FÖR DIG SOM VILL TESTA NÅGOT ANNAT"
-teaser: "Vill du minska skärmtiden hemma men vet inte var du ska börja?"
+subheadline:  "FÖR DIG SOM VILL FÅ MER LEK I VARDAGEN"
+teaser: "Vill du minska skärmtiden men vet inte var du ska börja?"
 # categories:
 #    - design
 header:
