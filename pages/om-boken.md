@@ -24,7 +24,7 @@ Det här är bara några av delarna. [Se hela innehållet här >>][1]
 
 **För vem?**
 
-För dig som:
+För dig som:\
 ✅ Vill minska skärmtid hos barn – men inte vet hur du ska börja\
 ✅ Undrar om ditt barn får för mycket skärmtid\
 ✅ Vill förstå hur skärmtid påverkar barnhjärnan – och hitta balans i vardagen\
