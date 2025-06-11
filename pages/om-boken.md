@@ -25,17 +25,11 @@ Det här är bara några av delarna. [Se hela innehållet här >>][1]
 **För vem?**
 
 För dig som:
-
 ✅ Vill minska skärmtid hos barn – men inte vet hur du ska börja
-
 ✅ Undrar om ditt barn får för mycket skärmtid
-
 ✅ Vill förstå hur skärmtid påverkar barnhjärnan – och hitta balans i vardagen
-
 ✅ Upplever att det ofta blir tjat eller konflikter kring skärm
-
 ✅ Vill hitta andra sätt att skapa lek och fantasi
-
 ✅ Är nyfiken på hur mindre skärmtid kan påverka lek, fantasi och lugn hemma – även om ni inte har problem
 
 
