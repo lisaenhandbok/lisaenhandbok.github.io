@@ -9,4 +9,4 @@ permalink           : "/kontakt/"
 Maila mig på lisa@enhandbok.se eller skriv på [Instagram][1]
 
 
-[1]: (https://www.instagram.com/enhandbok/){:target="_blank"}
+[1]: https://www.instagram.com/enhandbok/

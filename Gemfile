@@ -5,6 +5,7 @@ gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
+  gem 'jekyll-target-blank'
   gem "jekyll-asciidoc"
 end
 
