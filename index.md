@@ -8,7 +8,7 @@ teaser: "Vill du minska skärmtiden hemma men vet inte var du ska börja?"
 header:
    image_fullwidth: header3.png
 ---
-Den här lättlästa e-boken hjälper dig att skapa lugnare dagar – med färre konflikter, mer fantasi och bättre skärmvanor.
+Den här lättlästa e-boken hjälper dig att skapa lugnare dagar – med färre konflikter, mer fantasi och skärmvanor som inte tar över.
 
 - Baserad på forskning, riktiga familjers erfarenheter och konkreta verktyg som fungerar.
 - Konkreta tips som fungerar i vardagen – även för stressade föräldrar
