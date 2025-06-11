@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Om mig – Lisa Heikenfeldt"
 subheadline: ""
-teaser: "Ett av alternativen till en om mig sida, här kan vi länka till någon annan plats eller så..."
+teaser: ""
 header:
    image_fullwidth: "header1.png"
 permalink: "/om-mig/"
@@ -29,7 +29,7 @@ Vi landade i en enkel princip: för oss är skärmen som godis – något för h
 
 Så småningom började jag också prata med andra föräldrar och samla tankar, verktyg och insikter. Det blev grunden till den här e-boken. En konkret guide för dig som vill utforska en vardag med mindre skärmtid – och mer lek, fantasi och lugn.
 
-📘 Du hittar mig (ibland) på Instagram: [@enhandbok][!] – där delar jag lite då och då bakom kulisserna och lite oftare på mitt företags instagram: [@ilivera.se][2]
+📘 Du hittar mig (ibland) på Instagram: [@enhandbok][1] – där delar jag lite då och då bakom kulisserna och lite oftare på mitt företags instagram: [@ilivera.se][2]
 
 📩 Vill du komma i kontakt? Mejla gärna: lisa@enhandbok.se
 <!--more-->
