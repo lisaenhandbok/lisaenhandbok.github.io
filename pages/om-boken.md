@@ -25,7 +25,7 @@ Det här är bara några av delarna.
 
 **För vem är boken?**
 
-För dig som:\
+För dig som:
 
 – Vill minska skärmtiden hos ditt barn – men inte vet hur du ska börja\
 – Undrar om ditt barn får för mycket skärmtid\
