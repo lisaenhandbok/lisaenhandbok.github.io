@@ -30,8 +30,8 @@ Så småningom började jag också prata med andra föräldrar och samla tankar,
 
 ***En konkret guide för dig som vill utforska en vardag med mindre skärmtid – och mer lek, fantasi och lugn.***
 
-Du hittar mig på Instagram: [@enhandbok][1] – där delar jag lite då och då bakom kulisserna\
-Och lite oftare på mitt företags instagram: [@ilivera.se][2]
+Mer om mig på Instagram: [@enhandbok][1] – där delar jag lite då och då bakom kulisserna\
+Och om mindfulness och stresshantering på mitt företagsinstagram: [@ilivera.se][2]
 
 **📩 Vill du komma i kontakt?\
 Mejla på: lisa@enhandbok.se**
@@ -41,7 +41,7 @@ Mejla på: lisa@enhandbok.se**
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://Minaipads.se">Kolla va många devices jag har</a></p>
+      
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
