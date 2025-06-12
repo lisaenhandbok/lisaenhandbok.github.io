@@ -1,8 +1,9 @@
 ---
 layout: page-fullwidth
-title: "E-boken för föräldrar ”Minska skärmtid”"
+title: "Vad handlar e-boken 
+”Minska skärmtid” om?"
 subheadline: ""
-teaser: "Minska skärmtid är en konkret handbok för dig som vill förändra era skärmvanor hemma – utan att det blir bråk och tjat."
+teaser: "Minska skärmtid är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor – utan att det blir bråk och tjat."
 header:
    image_fullwidth: "header2.png"
 permalink: "/om-boken/"
@@ -14,22 +15,23 @@ Den är skriven för föräldrar med barn i åldern 1–10 år, och passar oavse
 
 **Vad du får:**
 
-- En tydlig steg-för-steg-plan för att minska skärmtid hos barn
-- Hjälp att hantera tjat och utbrott
-- Konkreta tips på skärmfria rutiner och vad barnet (och du) kan göra istället
-- Förklaringar till varför skärm påverkar barns lekförmåga och känsloreglering
+- **En tydlig steg-för-steg-plan** för att minska skärmtid hos barn
+- **Hjälp** att hantera tjat och utbrott
+- **Konkreta tips** på skärmfria rutiner och vad barnet (och du) kan göra istället
+- **Förklaringar** till varför skärm påverkar barns lekförmåga och känsloreglering
 
-Det här är bara några av delarna. [Se hela innehållet här >>][1]
+Det här är bara några av delarna.
+[Se hela innehållet här >>][1]
 
 
-**För vem?**
+**För vem är boken?**
 
 För dig som:\
-✅ Vill minska skärmtid hos barn – men inte vet hur du ska börja\
+✅ Vill minska skärmtiden hos ditt barn – men inte vet hur du ska börja\
 ✅ Undrar om ditt barn får för mycket skärmtid\
+✅ Vill hitta andra sätt att skapa lek och utveckla kreativitet\
+✅ Upplever att det blir tjat eller konflikter kring skärm\
 ✅ Vill förstå hur skärmtid påverkar barnhjärnan – och hitta balans i vardagen\
-✅ Upplever att det ofta blir tjat eller konflikter kring skärm\
-✅ Vill hitta andra sätt att skapa lek och fantasi\
 ✅ Är nyfiken på hur mindre skärmtid kan påverka lek, fantasi och lugn hemma – även om ni inte har problem
 
 
