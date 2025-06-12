@@ -17,7 +17,8 @@ En sommar bestämde vi oss för att testa något nytt, att ta bort skärmen helt
 
 Det var ett infall, inget vi planerat länge eller gjorde för att vi tyckte det var ett stort problem. Hon såg en stund 30 min – 1h på kvällen så vi var inga högkonsumenter.
 
-Men resultatet överraskade oss. Hon blev så lugn. Lugnare än vi visste fanns i henne.
+**Men resultatet överraskade oss. 
+Hon blev så lugn. Lugnare än vi visste fanns i henne.**
 
 Fantasin exploderade. Så mycket egenlek.
 
@@ -27,12 +28,12 @@ Det väckte min nyfikenhet ännu mer. Jag började läsa forskningsrapporter om 
 
 Så småningom började jag också prata med andra föräldrar och samla tankar, verktyg och insikter. Det blev grunden till den här e-boken. 
 
-*En konkret guide för dig som vill utforska en vardag med mindre skärmtid – och mer lek, fantasi och lugn.*
+***En konkret guide för dig som vill utforska en vardag med mindre skärmtid – och mer lek, fantasi och lugn.***
 
-📘 Du hittar mig på Instagram: [@enhandbok][1] – där delar jag lite då och då bakom kulisserna 
-och lite oftare på mitt företags instagram: [@ilivera.se][2]
+Du hittar mig på Instagram: [@enhandbok][1] – där delar jag lite då och då bakom kulisserna\
+Och lite oftare på mitt företags instagram: [@ilivera.se][2]
 
-**📩 Vill du komma i kontakt? 
+**📩 Vill du komma i kontakt?\
 Mejla på: lisa@enhandbok.se**
 
 <!--more-->
