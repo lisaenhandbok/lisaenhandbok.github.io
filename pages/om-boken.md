@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Vad handlar e-boken ”Minska skärmtid” om?"
+title: "E-boken för föräldrar ”Minska skärmtid”"
 subheadline: ""
 teaser: "Minska skärmtid är en konkret handbok för dig som vill förändra era skärmvanor hemma – utan att det blir bråk och tjat."
 header:
