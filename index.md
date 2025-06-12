@@ -10,7 +10,7 @@ header:
 ---
 **Kanske har du det som vi hade – inga egentliga problem med skärmtid
 (*och med det menar vi allt: tv, padda, mobil*).**
-Eller så är det en ständig förhandling, med tjat om när, hur länge och vad som får tittas på.
+Eller så är det en ständig förhandling och tjat om när.
 
 Kanske upplever du att ditt barn har svårt att leka själv –
 eller så har du bara börjat fundera:
