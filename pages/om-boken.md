@@ -19,7 +19,7 @@ Den är skriven för föräldrar med barn i åldern 1–10 år, och passar oavse
 - **Konkreta tips** på skärmfria rutiner och vad barnet (och du) kan göra istället
 - **Förklaringar** till varför skärm påverkar barns lekförmåga och känsloreglering
 
-Det här är bara några av delarna.
+Det här är bara några av delarna.\
 [Se hela innehållet här >>][1]
 
 
