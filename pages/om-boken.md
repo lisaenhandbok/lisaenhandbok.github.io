@@ -27,12 +27,13 @@ Det här är bara några av delarna.
 **För vem är boken?**
 
 För dig som:\
-✅ Vill minska skärmtiden hos ditt barn – men inte vet hur du ska börja\
-✅ Undrar om ditt barn får för mycket skärmtid\
-✅ Vill hitta andra sätt att skapa lek och utveckla kreativitet\
-✅ Upplever att det blir tjat eller konflikter kring skärm\
-✅ Vill förstå hur skärmtid påverkar barnhjärnan – och hitta balans i vardagen\
-✅ Är nyfiken på hur mindre skärmtid kan påverka lek, fantasi och lugn hemma – även om ni inte har problem
+
+– Vill minska skärmtiden hos ditt barn – men inte vet hur du ska börja\
+– Undrar om ditt barn får för mycket skärmtid\
+– Vill hitta andra sätt att skapa lek och utveckla kreativitet\
+– Upplever att det blir tjat eller konflikter kring skärm\
+– Vill förstå hur skärmtid påverkar barnhjärnan – och hitta balans i vardagen\
+– Är nyfiken på hur mindre skärmtid kan påverka lek, fantasi och lugn hemma – även om ni inte har problem
 
 
 
