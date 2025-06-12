@@ -8,31 +8,40 @@ teaser: "Vill du minska skärmtiden men vet inte var du ska börja?"
 header:
    image_fullwidth: header3.png
 ---
-Är du trött på tjat om skärmar? Är det en ständig förhandling? Kanske upplever du att ditt barn har svårt att leka själv - och gärna vill se på något istället. 
+Kanske har du det som vi hade – inga egentliga problem med skärmtid
+(och med det menar vi allt: tv, padda, mobil).
+Eller så är det en ständig förhandling, med tjat om när, hur länge och vad som får tittas på.
 
-Eller så upplever du inte att ni har något stort problem, 
-men har börjat fundera - vad skulle hända om vi testade något annat?
+Kanske upplever du att ditt barn har svårt att leka själv –
+eller så har du bara börjat fundera:
+Vad skulle hända om vi testade något annat?
 
 Den här boken är till för dig som vill skapa en vardag med mer lek, mer fantasi – utan att det blir en kamp.
 
-Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde. 
-Resultatet förvånade oss. Och det var mycket enklare än vi föreställt oss.
+Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde.
+Resultatet förvånade oss. Och det var mycket enklare än vi hade föreställt oss.
 
-Den här boken samlar allt vi lärt oss, verktyg och tips
-Och i den här boken delar vi med oss av allt vi lärde oss – plus verktyg, rutiner och stöd från forskning och andra familjer.
+I den här boken samlar vi allt vi lärt oss – konkreta verktyg, tips, rutiner
+och stöd från både forskning och andra familjer.
 
-Det behöver inte vara perfekt.
-Men det kan vara möjligt.
+Det behöver inte bli perfekt.
+Men det kan bli möjligt.
+Du behöver inte ha alla svar – det räcker att vilja prova.
 
+[Köp boken här >>][1]
 
-Den här lättlästa e-boken hjälper dig att skapa lugnare dagar – med färre konflikter, mer fantasi och skärmvanor som inte tar över.
+En lättläst e-bok som hjälper dig att skapa lugnare dagar – med färre konflikter, mer fantasi och skärmvanor som inte tar över.
 
-- Baserad på forskning, riktiga familjers erfarenheter och konkreta verktyg som fungerar.
-- Konkreta tips som fungerar i vardagen – även för stressade föräldrar
-- För dig som vill minska skärmtid utan bråk
+- Baserad på forskning, verkliga familjers erfarenheter och konkreta verktyg som fungerar.
+- Enkla tips som fungerar i vardagen – även när du är trött, stressad eller ensam i förändringen.
+- En steg-för-steg-plan för att minska skärmtiden utan bråk.
+- Hjälp att skapa nya rutiner, stärka barnets egenlek och förstå varför skärmar påverkar som de gör.
+  
 
-Boken innehåller en enkel och konkret steg-för-steg-plan för att minska skärmtiden hos barn, sätta nya rutiner och stärka barnets egenlek och kreativitet.
-
+Boken innehåller en enkel och konkret steg-för-steg-plan för att:
+✅ minska skärmtid
+✅ sätta nya rutiner
+✅ stärka barnets egenlek och kreativitet
 
 [Köp boken här >>][1]
 
