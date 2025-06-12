@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "Länkar"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Kontakt"
+  url: "/kontakt/"
+  title: "Kontakt"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: "Instagram"
+  url: "https://Instagram.com/enhandbok"
+  title: "Instagram"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
-
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
+#
+#- name: "sitemap.xml"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
