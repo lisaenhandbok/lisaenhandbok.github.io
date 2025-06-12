@@ -13,7 +13,7 @@ Jag heter Lisa och har i över 11 år arbetat med mindfulness, stresshantering o
 
 **Idén till den här boken föddes inte ur problem – utan ur nyfikenhet.**
 
-En sommar bestämde vi oss för att testa något nytt, att ta bort skärmen helt för vår då femåriga dotter under semestern.
+En sommar bestämde vi oss för att testa något nytt, att ta bort skärmen helt för vår då femåriga dotter under semestern (för oss var det främst tv som var “skärmtid”).
 
 Det var ett infall, inget vi planerat länge eller gjorde för att vi tyckte det var ett stort problem. Hon såg en stund 30 min – 1h på kvällen så vi var inga högkonsumenter.
 
