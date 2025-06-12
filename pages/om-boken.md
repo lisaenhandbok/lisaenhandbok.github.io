@@ -36,7 +36,7 @@ För dig som:
 
 
 
-*Baserad på forskning, riktiga familjers erfarenheter och konkreta verktyg som fungerar.*
+*Baserad på forskning, verkliga familjers erfarenheter och konkreta verktyg som fungerar.*
 
  
 
