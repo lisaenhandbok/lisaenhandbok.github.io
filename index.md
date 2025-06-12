@@ -38,10 +38,10 @@ En lättläst e-bok som hjälper dig att skapa lugnare dagar – med färre konf
 - Hjälp att skapa nya rutiner, stärka barnets egenlek och förstå varför skärmar påverkar som de gör.
   
 
-Boken innehåller en enkel och konkret steg-för-steg-plan för att:
-✅ minska skärmtid
-✅ sätta nya rutiner
-✅ stärka barnets egenlek och kreativitet
+Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
+✅ minska skärmtid\
+✅ sätta nya rutiner\
+✅ stärka barnets egenlek och kreativitet\
 
 [Köp boken här >>][1]
 
