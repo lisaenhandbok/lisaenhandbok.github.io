@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Vad handlar e-boken  ”Minska skärmtid” om?"
 subheadline: ""
-teaser: "Minska skärmtid är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor – utan att det blir bråk och tjat."
+teaser: "Minska skärmtid är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor – tv, surfplatta, mobil – utan att det blir bråk och tjat."
 header:
    image_fullwidth: "header2.png"
 permalink: "/om-boken/"
