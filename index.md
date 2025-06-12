@@ -30,7 +30,7 @@ och stöd från både forskning och andra familjer.
 
 [Köp boken här >>][1]
 
-###Det här får du i boken
+**OM BOKEN**
 
 *En lättläst e-bok som hjälper dig att skapa lugnare dagar – med färre konflikter, mer fantasi och skärmvanor som inte tar över.*
 
