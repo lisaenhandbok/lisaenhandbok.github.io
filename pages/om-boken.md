@@ -4,7 +4,7 @@ title: "Vad handlar ”Minska skärmtid” om?"
 subheadline: ""
 teaser: "Minska skärmtid är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor – tv, surfplatta, mobil – utan att det blir bråk och tjat."
 header:
-   image_fullwidth: "header2.png"
+   image_fullwidth: "header1.png"
 permalink: "/om-boken/"
 categories:
     - om-boken
