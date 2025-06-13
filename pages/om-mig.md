@@ -36,15 +36,7 @@ Och om mindfulness och stresshantering på mitt företagsinstagram: [@ilivera.se
 **📩 Vill du komma i kontakt?\
 Mejla på: lisa@enhandbok.se**
 
-<!--more-->
 
-<div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-      
-    </div><!-- /.medium-6.columns -->
-
-</div><!-- /.row -->
 
 [1]: https://instagram.com/enhandbok
 [2]: https://instagram.com/ilivera
