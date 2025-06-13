@@ -4,7 +4,7 @@ title: "Om mig – Lisa Heikenfeldt"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header2.png"
+   image_fullwidth: "headersjag.png"
 permalink: "/om-mig/"
 categories:
     - om-mig
