@@ -36,6 +36,11 @@ $ci-5               : #85B4AA; // Grönish /* Stora knappar? */
 /*$ci-6               : #A1D044; // green*/
 $ci-6               : #85B4AA; // Grönish /* Bakom knappar i navigationsmenyn exempelvis */
 
+/* Lisas Colors
+------------------------------------------------------------------- */
+
+$footer-lisa       : #92b2bb;
+
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
@@ -109,9 +114,10 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
-$footer-color       : #fff;
+$footer-bg          : $footer-lisa;
+$footer-color       : #92b2bb;
 $footer-link-color  : $ci-6;
+
 
 
 $subfooter-bg       : $grey-13;
