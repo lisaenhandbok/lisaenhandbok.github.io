@@ -6,7 +6,7 @@ teaser: "Vill du minska skärmtiden men vet inte var du ska börja?"
 # categories:
 #    - design
 header:
-   image_fullwidth: header3.png
+   image_fullwidth: header2.png
 ---
 **Kanske har du det som vi hade – inga egentliga problem med skärmtid
 (*och med det menar vi allt: tv, padda, mobil*).**
