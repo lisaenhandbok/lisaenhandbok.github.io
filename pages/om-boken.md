@@ -41,6 +41,9 @@ För dig som:
  
 
 👉 [Läs mer eller ladda ner boken här][1]
+
+<p><a href="/om-mig/">Läs mer om vem som skrivit boken</a></p>
+
 <!--more-->
 
 <div class="row">
