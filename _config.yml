@@ -38,7 +38,7 @@ improve_content: https://github.com/lisaenhandbok/lisaenhandbok.github.io/edit/g
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/lisaenhandbok/lisaenhandbok.github.io/tree/main/images/'
+urlimg: 'https://www.enhandbok.se/images/'
 
 
 # Logo size is 600x80 pixels
