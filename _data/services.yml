@@ -1,5 +1,9 @@
 - menu_name: "Länkar"
 
+- name: "Köp boken här"
+  url: "https://enhandbok.store/"
+  title: "Köp boken här"
+
 - name: "Kontakt"
   url: "/kontakt/"
   title: "Kontakt"
