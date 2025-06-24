@@ -14,7 +14,7 @@
   url: "/kontakt/"
   side: left
   
-  - title: "Köp boken"
+- title: "Köp boken"
   url: "https://enhandbok.store/"
   side: right
 
