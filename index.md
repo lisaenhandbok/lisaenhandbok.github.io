@@ -43,7 +43,7 @@ och stöd från både forskning och andra familjer.
 Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
 ✅ minska skärmtid\
 ✅ sätta nya rutiner\
-✅ stärka barnets egenlek och kreativitet\
+✅ stärka barnets egenlek och kreativitet
 
 [Köp boken här >>][1]
 
@@ -51,15 +51,15 @@ Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}1.png" alt="">
+    <img src="{{ site.urlimg }}4.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}2.png" alt="">
+      <img src="{{ site.urlimg }}2.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}3.png" alt="">
+      <img src="{{ site.urlimg }}3.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -67,12 +67,12 @@ Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}4.png" alt="">
+    <img src="{{ site.urlimg }}1.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}5.png" alt="">
-      <img class="t30" src="{{ site.urlimg }}6.png" alt="">
+      <img src="{{ site.urlimg }}5.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
