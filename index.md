@@ -79,16 +79,33 @@ Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
 
 ## FAQ - Vanliga frågor om skärmtid {#FAQ}
 
-***Hur minskar man skärmtiden för barn?***
+***Hur minskar man skärmtiden för barn?***\
 Det är ju det som är frågan – och svaret är faktiskt inte så krångligt som man kan tro. Det går att minska skärmtiden utan att bli aktivitetsledare dygnet runt. I e-boken "Minska skärmtid" får du konkreta tips som funkar i vardagen – även när du lagar mat, borsta tänderna, vabbar eller reser. 
 
 Små förändringar, stor skillnad.
 
-***Vad menas med skärmfällor?***
-
+***Vad menas med skärmfällor?***\
 Skärmfällor är vardagssituationer där skärmen känns som det enda som funkar – till exempel vid matlagning, trötta eftermiddagar, bilresor eller sjukdagar. Det kan vara rutiner som med tiden blivit beroende av skärmen, ofta utan att vi riktigt märkt det. 
 
 I boken går jag igenom 15 vanliga skärmfällor och inspirerar till hur ni kan ta er ur dem – utan att behöva bli aktivitetsledare eller att det blir tjafs.
+
+***Hur skapar man en skärmfri vardag utan bråk och tjat?***
+Visst är det lätt att tro att det kommer bli massor av bråk och tjat? 
+
+Men alla föräldrar jag varit i kontakt med vittnar faktiskt om motsatsen – barnen ställde om mycket lättare än de trodde. 
+
+Det som gör skillnad är tydlighet, förberedelse och att ha en plan för de där vardagssituationerna då skärmen känns som enda lösningen. I boken får du tips och verktyg som hjälper er att göra plats för mer lek, fantasi och lugn.
+
+***Vilken skärmtid är okej?***\
+Frågan för många föräldrar. Det finns inget enkelt svar – för vissa barn handlar det om hur mycket, för andra handlar det också om vad skärmen tar plats ifrån. Vad hade kunnat tränas, upptäckas eller upplevas om inte skärmen fanns tillgänglig?
+
+I vår familj märkte vi enorm skillnad när vi tog bort skärmen helt förra sommaren, trots att det "bara" handlade om en timme om dagen. 
+
+I efterhand insåg vi att vi var långt ifrån ensamma. Många föräldrar beskriver samma sak och ännu mer. 
+
+Forskningen visar tydliga kopplingar mellan skärmtid och bland annat tålamod, känsloreglering och barns förmåga att leka och koncentrera sig. Innehållet spelar också roll. Det är skillnad på det långsamma tempot i Björnes magasin – där Björne kom indragandes på snigel, hittade en krita och ritade till ”Björnes…” ovanför ordet magasin för att sen promenera vidare – och dagens snabba klipp, ljud, färger och kickar. Barnprogram har minst sagt förändrats – och det är inte konstigt att barns hjärnor reagerar därefter.
+
+Om du verkligen vill få svar på om skärmtiden ni har är för mycket –> testa att ta bort all skärm/tv etc i fyra veckor. Hur blir det? Där får du mer svar än någon lista med rekommendationer eller forskning :)
 
 
  [1]: https://enhandbok.store/
