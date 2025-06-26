@@ -77,7 +77,7 @@ Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
 
 </div><!-- /.row -->
 
-## FAQ - Vanliga frågor om skärmtid {#FAQ}
+## FAQ - Vanliga frågor om skärmtid {#faq}
 
 ***Hur minskar man skärmtiden för barn?***\
 Det är ju det som är frågan – och svaret är faktiskt inte så krångligt som man kan tro. Det går att minska skärmtiden utan att bli aktivitetsledare dygnet runt. I e-boken "Minska skärmtid" får du konkreta tips som funkar i vardagen – även när du lagar mat, borsta tänderna, vabbar eller reser. 
@@ -89,7 +89,7 @@ Skärmfällor är vardagssituationer där skärmen känns som det enda som funka
 
 I boken går jag igenom 15 vanliga skärmfällor och inspirerar till hur ni kan ta er ur dem – utan att behöva bli aktivitetsledare eller att det blir tjafs.
 
-***Hur skapar man en skärmfri vardag utan bråk och tjat?***
+***Hur skapar man en skärmfri vardag utan bråk och tjat?***\
 Visst är det lätt att tro att det kommer bli massor av bråk och tjat? 
 
 Men alla föräldrar jag varit i kontakt med vittnar faktiskt om motsatsen – barnen ställde om mycket lättare än de trodde. 
