@@ -26,7 +26,7 @@ I den här boken samlar vi allt vi lärt oss – konkreta verktyg, tips, rutiner
 och stöd från både forskning och andra familjer.
 
 *Det behöver inte bli perfekt.*  
-**Men du kommer inte ångra steget ändå.** 
+**Men jag kan garantera att du inte kommer att ångra steget oavsett.** 
 
 [Köp boken här >>][1]
 
