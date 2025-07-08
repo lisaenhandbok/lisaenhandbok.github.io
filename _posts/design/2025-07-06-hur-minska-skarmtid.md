@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "E-boken Minska skärmtid"
+subheadline: "Större skillnad än vi trodde"
 title: "Hur minskar man skärmtid för barn? Det här hände när vi tog bort tv:n i fyra veckor."
 teaser: "Vad händer om man slutar med skärmtid för barn helt under några veckor? För vår familj blev det början på något större – och lugnare."
 categories:
@@ -17,13 +17,13 @@ image:
     title: 1-title.jpg
     thumb: 1-thumb.jpg
     homepage: 1-home.jpg
-    caption: Foto
+    caption:
     caption_url: 
 ---
-Vi hade inte bestämt oss och planerat inför något stort, det var mest ett infall. 
+Vi hade inte bestämt oss och planerat inför något stort, det var ett infall av nyfikenhet. 
 Vad händer om skärmen inte är ett alternativ?
 
-Vi bestämde oss för att pausa tv:n några veckor under sommaren, vi hade egentligen ingen bestämd sluttid och det var inget drastiskt, bara ett experiment liksom. Hur länge funkar det?
+Vi bestämde oss för att pausa tv:n några veckor under sommaren, vi hade ingen bestämd sluttid och det var inget drastiskt, bara ett experiment liksom. Hur länge funkar det?
 
 Redan efter några dagar slutade vår dotter fråga. Det hade vi kunnat sätta pengar emot att det skulle hända. Vi var helt inställda på att hon kommer tjata efter att få se något men näe, hon slutade fråga. Det verkade ganska snabbt som att hon glömde att barnprogram fanns.
 
