@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Ingen skärm på fyra veckor"
+subheadline: "E-boken Minska skärmtid"
 title: "Hur minskar man skärmtid för barn? Det här hände när vi tog bort tv:n i fyra veckor."
 teaser: "Vad händer om man slutar med skärmtid för barn helt under några veckor? För vår familj blev det början på något större – och lugnare."
 categories:
