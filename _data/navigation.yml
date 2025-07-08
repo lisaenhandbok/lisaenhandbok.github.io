@@ -13,6 +13,10 @@
 - title: "Kontakt"
   url: "/kontakt/"
   side: left
+
+  - title: "Blogg"
+  url: "/blogg/"
+  side: left
   
 - title: "Köp boken"
   url: "https://enhandbok.store/"
