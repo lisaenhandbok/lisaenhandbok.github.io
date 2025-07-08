@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "Minska skärmtid – en väg till mer lek, fantasi och lugn"
 subheadline:  "FÖR DIG SOM VILL FÅ MER LEK I VARDAGEN"
-teaser: "Vill du minska skärmtiden men vet inte var du ska börja?"
+teaser: "Vill du minska skärmtiden för ditt barn men vet inte var du ska börja?"
 # categories:
 #    - design
 header:
@@ -16,7 +16,7 @@ Kanske upplever du att ditt barn har svårt att leka själv –
 eller så har du bara börjat fundera:
 Vad skulle hända om vi testade något annat?
 
-**Den här boken är till för dig som vill skapa en vardag med mer lek, mer fantasi – utan att det blir en kamp.**
+**Den här boken är till för dig som vill skapa en vardag med mindre skärmtid för ditt barn, mer lek och mer fantasi – utan att det blir en kamp.**
 
 Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde.
 
@@ -26,7 +26,7 @@ I den här boken samlar vi allt vi lärt oss – konkreta verktyg, tips, rutiner
 och stöd från både forskning och andra familjer.
 
 *Det behöver inte bli perfekt.*  
-**Men du kommer inte ångra steget ändå.** 
+**Men jag kan garantera att du inte kommer att ångra steget oavsett.** 
 
 [Köp boken här >>][1]
 
