@@ -47,9 +47,7 @@ Vi har samlat våra erfarenheter i en e-bok – för dig som vill testa själv, 
 
 Det handlar inte om att skärmar är dåliga. Det handlar om vad som får växa när skärmen inte tar all plats.
 
-Vill du veta mer?
-
-[»E-boken Minska skärmtid – en väg till mer lek, fantasi och lugn finns här«][1]
+Vill du veta mer? [»E-boken Minska skärmtid – en väg till mer lek, fantasi och lugn finns här«][1]
 
 
  [1]: https://enhandbok.store/
