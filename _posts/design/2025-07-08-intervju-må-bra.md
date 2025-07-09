@@ -92,15 +92,15 @@ Lisa och hennes sambo bunkrade med Bamse-tidningar i början, men det finns mån
 
 **FLER TIPS FRÅN LISA**
 
-Bekräfta utan att förhandla
+Bekräfta utan att förhandla/
 ”Jag förstår att du blir ledsen, det är okej” kan lugna mer än man tror. Undvik att förhandla – tydlighet ger trygghet.
 Förändring kan kännas tuff först – men går ofta snabbare än du tror
 Många upplever att det var lättare än de trodde, men det kan såklart också kännas kämpigt i början. Det betyder inte att du gör fel – det betyder att en vana håller på att brytas.
 
-Träna på att inte lösa “tråkigt” direkt
+Träna på att inte lösa “tråkigt” direkt/
 Leken och fantasin växer ofta fram ur tomrummet. Våga låta barnet ha lite tråkigt ibland.
 
-Gör inte skärmen till tröst, muta eller hot
+Gör inte skärmen till tröst, muta eller hot/
 Försök att inte göra skärmen till belöning eller tröst – det gör den mer laddad och svårare att säga nej till.
 
 Lisa delar fler tips i [»e-boken Minska skärmtid – en väg till mer lek, fantasi och lugn«][1]
