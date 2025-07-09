@@ -97,7 +97,7 @@ Bekräfta utan att förhandla/
 Förändring kan kännas tuff först – men går ofta snabbare än du tror
 Många upplever att det var lättare än de trodde, men det kan såklart också kännas kämpigt i början. Det betyder inte att du gör fel – det betyder att en vana håller på att brytas.
 
-Träna på att inte lösa “tråkigt” direkt/
+Träna på att inte lösa “tråkigt” direkt./
 Leken och fantasin växer ofta fram ur tomrummet. Våga låta barnet ha lite tråkigt ibland.
 
 Gör inte skärmen till tröst, muta eller hot/
