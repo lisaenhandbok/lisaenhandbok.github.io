@@ -49,7 +49,7 @@ När semestern – och experimentet – var över snurrade tankarna. Essie hade 
 Lisa började läsa på och pratade med andra småbarnsföräldrar som varit i en liknande situation.\
 – Då visade det sig att det är jättemånga som har gjort samma sak och också upplevt det. Vi hade aldrig några större problem med utbrott men jag har pratat med flera föräldrar som har tagit bort vardagsteven och då har även utbrotten har upphört.
 
-Många upplevde också, precis som hon själv, att deras barn fick mer tålamod och att det var mycket lättare att minska på skärmtiden än de tidigare trott.
+**Många upplevde också, precis som hon själv, att deras barn fick mer tålamod och att det var mycket lättare att minska på skärmtiden än de tidigare trott.**
 
 Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv. Men inte lika mycket som tidigare.\
 – Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa.\
