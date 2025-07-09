@@ -26,7 +26,7 @@ Lisa Heikenfeldt och hennes sambo var beredda på protester när de tog bort dot
 Lisa Heikenfeldt vet inte riktigt vad det var som fick henne och sambon Tobias att vilja plocka bort tv:n helt, som ett experiment, förra sommaren. Idén kanske kom från någonting de hört eller så var det bara ren nyfikenhet som drev den.\
 – Vi hade inga problem. Vi var bara nyfikna på vad som skulle hända, säger småbarnsmamman och mindfulnesspedagogen.
 
-**Nu, ett år senare, beskriver hon det som det bästa beslutet de någonsin tagit.**\
+**Nu, ett år senare, beskriver hon det som det bästa beslutet de någonsin tagit.**
 
 **Serietidningar i stället för barnprogram**\
 Det hela började med att de tog bort tv:n under ett par dagar, när de var på landet under midsommarhelgen. I stället för att sätta på tv:n på kvällen, som de brukade göra, läste de Bamse-tidningar tillsammans.\
@@ -51,22 +51,22 @@ Lisa började läsa på och pratade med andra småbarnsföräldrar som varit i e
 
 **Många upplevde också, precis som hon själv, att deras barn fick mer tålamod och att det var mycket lättare att minska på skärmtiden än de tidigare trott.**
 
-Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv.\ 
+Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv.\
 Men inte lika mycket som tidigare.\
-– Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa.\
+– Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa.
 
 Det är en strategi som de hållit fast vid nu i nästan ett års tid – och som Lisa hoppas att fler föräldrar får möjlighet att upptäcka.\
 I e-boken "Minska skärmtid – en väg till mer lek, fantasi och lugn" beskriver hon familjens resa och delar tips och tricks för en lugnare och lekfullare vardag där skärmar inte står i centrum lika mycket.
 
-**– Det handlar inte om huruvida en skärm är bra eller dåligt utan vad som händer när man ger något annat utrymme, betonar hon.**\
+**– Det handlar inte om huruvida en skärm är bra eller dåligt utan vad som händer när man ger något annat utrymme, betonar hon.**
 
 Hennes egen erfarenhet talar även för att det inte behöver röra sig om flera timmars skärmanvändning varje dag för att man ska märka av någon skillnad.\
 – Vi kollade på tv i en halvtimme innan, ibland upp mot en timme. Det tyckte inte jag var mycket, jag trodde inte att det skulle göra någon skillnad att ta bort den stunden, medger hon.
 
 Idag har Essie, som fyllt sex år, inga problem med att fylla den där stunden med lek. Hon har alltid något projekt på gång, berättar småbarnsmamman.\
-– Hon kör sitt eget rejs på ett helt annat sätt nu. Förut kände vi nog på något märkligt sätt att vi ville... Jag vet inte, jag kände det inte då. Men nu efterhand har jag reflekterat över att vi nog kände att vi behövde ge henne något att göra.\
+– Hon kör sitt eget rejs på ett helt annat sätt nu. Förut kände vi nog på något märkligt sätt att vi ville... Jag vet inte, jag kände det inte då. Men nu efterhand har jag reflekterat över att vi nog kände att vi behövde ge henne något att göra.
 
-Hon tror att många vuxna går i den fällan. Att de vill att deras barn ska vara glada och nöjda hela tiden, och kanske är oroliga för att de ska bli galna av tristess.\
+Hon tror att många vuxna går i den fällan. Att de vill att deras barn ska vara glada och nöjda hela tiden, och kanske är oroliga för att de ska bli galna av tristess.
 
 – Men barnhjärnan är byggd för fantasi. Man behöver bara få möjligheten att öva.\
 – Om vi alltid löser barnens tråkighetsproblem, då kommer de själva aldrig lära sig hur de ska göra.
