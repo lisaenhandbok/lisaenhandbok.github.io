@@ -69,15 +69,15 @@ Hon tror att många vuxna går i den fällan. Att de vill att deras barn ska var
 – Men barnhjärnan är byggd för fantasi. Man behöver bara få möjligheten att öva./
 – Om vi alltid löser barnens tråkighetsproblem, då kommer de själva aldrig lära sig hur de ska göra.
 
-**Tips för mindre skärmtid**
+**Tips för mindre skärmtid**/
 Brukar du lämna över paddan eller sätta på tv:n så fort ditt barn ber om det, men önskar att du kunde bryta denna vana, så har Lisa två råd att börja med.
 
-Skapa en tydlig regel/
+Skapa en tydlig regel
 – Nummer ett skulle jag verkligen säga är att sätta en enkel och tydlig regel, säger hon.
  Om barnet vet att det endast får leka med paddan eller se på tv en viss dag i veckan, så kommer han eller hon tillslut att sluta fråga om den andra dagar. Om svaret alltid är nej.
 
-Tänk ut alternativ/
-Ska du bryta ett gammalt mönster kan det även vara klokt att tänka igenom vad som ska hända i stället, råder Lisa./
+Tänk ut alternativ
+Ska du bryta ett gammalt mönster kan det även vara klokt att tänka igenom vad som ska hända i stället, råder Lisa.
  – Det här gäller egentligen bara i början, för sen kommer barnen lösa det själva. Men jag tänker lite på samma sätt som om du vill minska din tid med mobilen. Då behöver man ju fundera kring vad man ska göra istället. Är det korsord? Är det sudoku? Är det att läsa? 
 
 Att inte bara tänka att man ska minska någonting, vanor funkar inte så. Så fundera kring vad som ska hända i stället. Vad kan jag erbjuda? I vilka situationer brukar barnet be om skärm? Och vad ska jag då föreslå eller erbjuda?
