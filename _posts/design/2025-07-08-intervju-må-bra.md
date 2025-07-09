@@ -20,7 +20,7 @@ image:
     caption:
     caption_url: 
 ---
-Lisa Heikenfeldt och hennes sambo var beredda på protester när de tog bort dotterns kvällsunderhållning – tv:n – under fyra veckor. Men i stället för tjat möttes de av en sida hos femåriga Essie som de inte visste fanns.
+Lisa Heikenfeldt och hennes sambo var beredda på protester när de tog bort dotterns kvällsunderhållning – tv:n – under fyra veckor. Men i stället för tjat möttes de av en sida hos femåriga Essie som de inte visste fanns./
 – Det är som natt och dag egentligen, säger mamman som nu vill inspirera fler föräldrar att se över sina barns skärmanvändande – och har därför skrivit en e-bok med konkreta tips för att minska skärmtiden.
 
 Lisa Heikenfeldt vet inte riktigt vad det var som fick henne och sambon Tobias att vilja plocka bort tv:n helt, som ett experiment, förra sommaren. Idén kanske kom från någonting de hört eller så var det bara ren nyfikenhet som drev den. 
