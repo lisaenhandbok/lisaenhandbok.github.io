@@ -54,33 +54,33 @@ Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i 
 – Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa.
 Det är en strategi som de hållit fast vid nu i nästan ett års tid – och som Lisa hoppas att fler föräldrar får möjlighet att upptäcka. I e-boken "Minska skärmtid – en väg till mer lek, fantasi och lugn" beskriver hon familjens resa och delar tips och tricks för en lugnare och lekfullare vardag där skärmar inte står i centrum lika mycket.
 
-– Det handlar inte om huruvida en skärm är bra eller dåligt utan vad som händer när man ger något annat utrymme, betonar hon.
+**– Det handlar inte om huruvida en skärm är bra eller dåligt utan vad som händer när man ger något annat utrymme, betonar hon.**
 
-Hennes egen erfarenhet talar även för att det inte behöver röra sig om flera timmars skärmanvändning varje dag för att man ska märka av någon skillnad.
+Hennes egen erfarenhet talar även för att det inte behöver röra sig om flera timmars skärmanvändning varje dag för att man ska märka av någon skillnad./
 – Vi kollade på tv i en halvtimme innan, ibland upp mot en timme. Det tyckte inte jag var mycket, jag trodde inte att det skulle göra någon skillnad att ta bort den stunden, medger hon.
 
-Idag har Essie, som fyllt sex år, inga problem med att fylla den där stunden med lek. Hon har alltid något projekt på gång, berättar småbarnsmamman.
-– Hon kör sitt eget rejs på ett helt annat sätt nu. Förut kände vi nog på något märkligt sätt att vi ville... Jag vet inte, jag kände det inte då. Men nu efterhand har jag reflekterat över att vi nog kände att vi behövde ge henne något att göra.
+Idag har Essie, som fyllt sex år, inga problem med att fylla den där stunden med lek. Hon har alltid något projekt på gång, berättar småbarnsmamman./
+– Hon kör sitt eget rejs på ett helt annat sätt nu. Förut kände vi nog på något märkligt sätt att vi ville... Jag vet inte, jag kände det inte då. Men nu efterhand har jag reflekterat över att vi nog kände att vi behövde ge henne något att göra./
+
 Hon tror att många vuxna går i den fällan. Att de vill att deras barn ska vara glada och nöjda hela tiden, och kanske är oroliga för att de ska bli galna av tristess.
 
-– Men barnhjärnan är byggd för fantasi. Man behöver bara få möjligheten att öva.
+– Men barnhjärnan är byggd för fantasi. Man behöver bara få möjligheten att öva./
 – Om vi alltid löser barnens tråkighetsproblem, då kommer de själva aldrig lära sig hur de ska göra.
 
-Tips för mindre skärmtid
+**Tips för mindre skärmtid**
 Brukar du lämna över paddan eller sätta på tv:n så fort ditt barn ber om det, men önskar att du kunde bryta denna vana, så har Lisa två råd att börja med.
 
-Skapa en tydlig regel
+Skapa en tydlig regel/
 – Nummer ett skulle jag verkligen säga är att sätta en enkel och tydlig regel, säger hon.
  Om barnet vet att det endast får leka med paddan eller se på tv en viss dag i veckan, så kommer han eller hon tillslut att sluta fråga om den andra dagar. Om svaret alltid är nej.
 
-Tänk ut alternativ
-Ska du bryta ett gammalt mönster kan det även vara klokt att tänka igenom vad som ska hända i stället, råder Lisa.
+Tänk ut alternativ/
+Ska du bryta ett gammalt mönster kan det även vara klokt att tänka igenom vad som ska hända i stället, råder Lisa./
  – Det här gäller egentligen bara i början, för sen kommer barnen lösa det själva. Men jag tänker lite på samma sätt som om du vill minska din tid med mobilen. Då behöver man ju fundera kring vad man ska göra istället. Är det korsord? Är det sudoku? Är det att läsa? 
 
 Att inte bara tänka att man ska minska någonting, vanor funkar inte så. Så fundera kring vad som ska hända i stället. Vad kan jag erbjuda? I vilka situationer brukar barnet be om skärm? Och vad ska jag då föreslå eller erbjuda?
 
 Lisa och hennes sambo bunkrade med Bamse-tidningar i början, men det finns många sätt att underlätta övergången. Ett ytterligare tips är att se över lekhörnan och kanske ta bort hälften av leksakerna.
-
  – Så att det syns jättetydligt vad som finns att leka med, säger Lisa.
 
 
