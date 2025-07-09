@@ -23,28 +23,29 @@ image:
 Lisa Heikenfeldt och hennes sambo var beredda på protester när de tog bort dotterns kvällsunderhållning – tv:n – under fyra veckor. Men i stället för tjat möttes de av en sida hos femåriga Essie som de inte visste fanns./
 – Det är som natt och dag egentligen, säger mamman som nu vill inspirera fler föräldrar att se över sina barns skärmanvändande – och har därför skrivit en e-bok med konkreta tips för att minska skärmtiden.
 
-Lisa Heikenfeldt vet inte riktigt vad det var som fick henne och sambon Tobias att vilja plocka bort tv:n helt, som ett experiment, förra sommaren. Idén kanske kom från någonting de hört eller så var det bara ren nyfikenhet som drev den. 
+Lisa Heikenfeldt vet inte riktigt vad det var som fick henne och sambon Tobias att vilja plocka bort tv:n helt, som ett experiment, förra sommaren. Idén kanske kom från någonting de hört eller så var det bara ren nyfikenhet som drev den./ 
 – Vi hade inga problem. Vi var bara nyfikna på vad som skulle hända, säger småbarnsmamman och mindfulnesspedagogen.
 
-Nu, ett år senare, beskriver hon det som det bästa beslutet de någonsin tagit.
-Serietidningar i stället för barnprogram
-Det hela började med att de tog bort tv:n under ett par dagar, när de var på landet under midsommarhelgen. I stället för att sätta på tv:n på kvällen, som de brukade göra, läste de Bamse-tidningar tillsammans.
+**Nu, ett år senare, beskriver hon det som det bästa beslutet de någonsin tagit.**/
+
+**Serietidningar i stället för barnprogram**/
+Det hela började med att de tog bort tv:n under ett par dagar, när de var på landet under midsommarhelgen. I stället för att sätta på tv:n på kvällen, som de brukade göra, läste de Bamse-tidningar tillsammans./
 – Hon tyckte inte att det var någon stor grej, vilket vi var helt inställda på att hon skulle tycka, konstaterar Lisa.
 
-Eftersom det gick så pass smidigt bestämde sig föräldrarna för att ta experimentet steget längre – och utöka det till fyra hela semesterveckor.
+Eftersom det gick så pass smidigt bestämde sig föräldrarna för att ta experimentet steget längre – och utöka det till fyra hela semesterveckor./
 – Vi köpte 200 Bamse-tidningar och laddade upp. Vi var nog rustade för ett krig som aldrig kom. Vi var verkligen pepp, och hon hade ingen aning om hur pepp vi var.
 
-Till Lisas och Tobias stora förvåning slutade dottern fråga om tv:n efter bara några dagar.
+Till Lisas och Tobias stora förvåning slutade dottern fråga om tv:n efter bara några dagar./
 – Det var en sådan inrutad vana att vi hade kunnat sätta pengar på att hon aldrig... att det alltid kommer att vara vi som säger nej. Det kommer aldrig vara att hon slutar fråga. Men det gjorde hon, säger Lisa.
 
-Ganska snabbt märkte de även hur dottern förändrades när tv:n inte fanns som alternativ.
+Ganska snabbt märkte de även hur dottern förändrades när tv:n inte fanns som alternativ./
 – Det var lite skrämmande, för vi hade ju aldrig tänkt på henne som ett rastlöst barn. Hon var som barn är. Jag kände aldrig att hon var rastlös, men när vi tog bort tv:n så såg vi ett lugn i henne som vi aldrig visste fanns där.
 
-Femåringen fick plötsligt mer tålamod och blev en mästare på att chilla, på att ta det lugnt helt enkelt. Hon blev dessutom mer kreativ, och började leka mer med alla möjliga saker och redskap som hon hittade.
+Femåringen fick plötsligt mer tålamod och blev en mästare på att chilla, på att ta det lugnt helt enkelt. Hon blev dessutom mer kreativ, och började leka mer med alla möjliga saker och redskap som hon hittade./
 – Hon har så mycket fantasi och kreativitet nu. Det är väl som att någonting poppade upp när det andra stängdes av, säger Lisa, som beskriver förvandlingen som natt och dag. 
 
-Tv:n är som lördagsgodis
-När semestern – och experimentet – var över snurrade tankarna. Essie hade varit den ”nöjdaste ungen någonsin” när hon inte haft tillgång till någon skärm, så skulle de återgå till vardagsteven? Lisa började läsa på och pratade med andra småbarnsföräldrar som varit i en liknande situation.
+**Tv:n är som lördagsgodis**
+När semestern – och experimentet – var över snurrade tankarna. Essie hade varit den ”nöjdaste ungen någonsin” när hon inte haft tillgång till någon skärm, så skulle de återgå till vardagsteven? Lisa började läsa på och pratade med andra småbarnsföräldrar som varit i en liknande situation./
 – Då visade det sig att det är jättemånga som har gjort samma sak och också upplevt det. Vi hade aldrig några större problem med utbrott men jag har pratat med flera föräldrar som har tagit bort vardagsteven och då har även utbrotten har upphört.
 
 Många upplevde också, precis som hon själv, att deras barn fick mer tålamod och att det var mycket lättare att minska på skärmtiden än de tidigare trott.
