@@ -14,8 +14,8 @@
   url: "/kontakt/"
   side: left
 
-  - title: "Blog"
-  url: "/blog/"
+- title: "Artiklar"
+  url: "/artiklar/"
   side: left
   
 - title: "Köp boken"
