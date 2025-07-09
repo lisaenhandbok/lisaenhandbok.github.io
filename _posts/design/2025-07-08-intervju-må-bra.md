@@ -89,24 +89,12 @@ Lisa och hennes sambo bunkrade med Bamse-tidningar i början, men det finns mån
 
 
 
+Lisa delar fler tips i [»e-boken Minska skärmtid – en väg till mer lek, fantasi och lugn«][1]
+
+
 **Är det något som du önskar att du vetat innan du testade att minska skärmanvändandet?\***
 – Ja, hur lätt det var. Definitivt. Hur lätt det var och hur mycket det skulle ge. Hade jag vetat det hade vi gjort det här för länge sedan.
 
-
-**FLER TIPS FRÅN LISA**
-
-Bekräfta utan att förhandla\
-”Jag förstår att du blir ledsen, det är okej” kan lugna mer än man tror. 
-
-Undvik att förhandla – tydlighet ger trygghet.\
-Förändring kan kännas tuff först – men går ofta snabbare än du tror
-Många upplever att det var lättare än de trodde, men det kan såklart också kännas kämpigt i början. Det betyder inte att du gör fel – det betyder att en vana håller på att brytas.
-
-Träna på att inte lösa “tråkigt” direkt.\
-Leken och fantasin växer ofta fram ur tomrummet. Våga låta barnet ha lite tråkigt ibland.
-
-
-Lisa delar fler tips i [»e-boken Minska skärmtid – en väg till mer lek, fantasi och lugn«][1]
 
 
  [1]: https://enhandbok.store/
