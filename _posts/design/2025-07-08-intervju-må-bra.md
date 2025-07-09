@@ -44,17 +44,19 @@ Ganska snabbt märkte de även hur dottern förändrades när tv:n inte fanns so
 Femåringen fick plötsligt mer tålamod och blev en mästare på att chilla, på att ta det lugnt helt enkelt. Hon blev dessutom mer kreativ, och började leka mer med alla möjliga saker och redskap som hon hittade./
 – Hon har så mycket fantasi och kreativitet nu. Det är väl som att någonting poppade upp när det andra stängdes av, säger Lisa, som beskriver förvandlingen som natt och dag. 
 
-**Tv:n är som lördagsgodis**
+**Tv:n är som lördagsgodis**/
 När semestern – och experimentet – var över snurrade tankarna. Essie hade varit den ”nöjdaste ungen någonsin” när hon inte haft tillgång till någon skärm, så skulle de återgå till vardagsteven? Lisa började läsa på och pratade med andra småbarnsföräldrar som varit i en liknande situation./
 – Då visade det sig att det är jättemånga som har gjort samma sak och också upplevt det. Vi hade aldrig några större problem med utbrott men jag har pratat med flera föräldrar som har tagit bort vardagsteven och då har även utbrotten har upphört.
 
 Många upplevde också, precis som hon själv, att deras barn fick mer tålamod och att det var mycket lättare att minska på skärmtiden än de tidigare trott.
 
-Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv. Men inte lika mycket som tidigare.
-– Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa.
-Det är en strategi som de hållit fast vid nu i nästan ett års tid – och som Lisa hoppas att fler föräldrar får möjlighet att upptäcka. I e-boken "Minska skärmtid – en väg till mer lek, fantasi och lugn" beskriver hon familjens resa och delar tips och tricks för en lugnare och lekfullare vardag där skärmar inte står i centrum lika mycket.
+Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv. Men inte lika mycket som tidigare./
+– Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa./
 
-**– Det handlar inte om huruvida en skärm är bra eller dåligt utan vad som händer när man ger något annat utrymme, betonar hon.**
+Det är en strategi som de hållit fast vid nu i nästan ett års tid – och som Lisa hoppas att fler föräldrar får möjlighet att upptäcka. /
+I e-boken "Minska skärmtid – en väg till mer lek, fantasi och lugn" beskriver hon familjens resa och delar tips och tricks för en lugnare och lekfullare vardag där skärmar inte står i centrum lika mycket.
+
+**– Det handlar inte om huruvida en skärm är bra eller dåligt utan vad som händer när man ger något annat utrymme, betonar hon.**/
 
 Hennes egen erfarenhet talar även för att det inte behöver röra sig om flera timmars skärmanvändning varje dag för att man ska märka av någon skillnad./
 – Vi kollade på tv i en halvtimme innan, ibland upp mot en timme. Det tyckte inte jag var mycket, jag trodde inte att det skulle göra någon skillnad att ta bort den stunden, medger hon.
@@ -62,7 +64,7 @@ Hennes egen erfarenhet talar även för att det inte behöver röra sig om flera
 Idag har Essie, som fyllt sex år, inga problem med att fylla den där stunden med lek. Hon har alltid något projekt på gång, berättar småbarnsmamman./
 – Hon kör sitt eget rejs på ett helt annat sätt nu. Förut kände vi nog på något märkligt sätt att vi ville... Jag vet inte, jag kände det inte då. Men nu efterhand har jag reflekterat över att vi nog kände att vi behövde ge henne något att göra./
 
-Hon tror att många vuxna går i den fällan. Att de vill att deras barn ska vara glada och nöjda hela tiden, och kanske är oroliga för att de ska bli galna av tristess.
+Hon tror att många vuxna går i den fällan. Att de vill att deras barn ska vara glada och nöjda hela tiden, och kanske är oroliga för att de ska bli galna av tristess./
 
 – Men barnhjärnan är byggd för fantasi. Man behöver bara få möjligheten att öva./
 – Om vi alltid löser barnens tråkighetsproblem, då kommer de själva aldrig lära sig hur de ska göra.
@@ -88,9 +90,7 @@ Lisa och hennes sambo bunkrade med Bamse-tidningar i början, men det finns mån
 – Ja, hur lätt det var. Definitivt. Hur lätt det var och hur mycket det skulle ge. Hade jag vetat det hade vi gjort det här för länge sedan.
 
 
-FAKTARUTA: Jag har en liten fundering kring den här faktarutan. Den bygger ju på bokens innehållsförteckning men när punkterna lyfts ut så här utan sitt sammanhang känns det lite för förenklat och jag blir rädd att folk ska missuppfatta det – varje steg i boken har ju en förklaring. Så det kanske kan vara en ruta med fristående tips istället. Det blir lättare att ta till sig och kan inte missuppfattas på samma sätt :)
-
-FLER TIPS FRÅN LISA
+**FLER TIPS FRÅN LISA**
 
 Bekräfta utan att förhandla
 ”Jag förstår att du blir ledsen, det är okej” kan lugna mer än man tror. Undvik att förhandla – tydlighet ger trygghet.
