@@ -51,7 +51,8 @@ Lisa började läsa på och pratade med andra småbarnsföräldrar som varit i e
 
 **Många upplevde också, precis som hon själv, att deras barn fick mer tålamod och att det var mycket lättare att minska på skärmtiden än de tidigare trott.**
 
-Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv. Men inte lika mycket som tidigare.\
+Lisa och Tobias beslutade trots allt att det ska finnas plats för tv-program i deras dotters liv.\ 
+Men inte lika mycket som tidigare.\
 – Det får vara som lördagsgodis, för helgerna men inte för vardagarna, säger Lisa.\
 
 Det är en strategi som de hållit fast vid nu i nästan ett års tid – och som Lisa hoppas att fler föräldrar får möjlighet att upptäcka.\
