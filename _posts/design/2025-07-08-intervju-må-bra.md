@@ -80,15 +80,16 @@ Om barnet vet att det endast får leka med paddan eller se på tv en viss dag i 
 
 Tänk ut alternativ\
 Ska du bryta ett gammalt mönster kan det även vara klokt att tänka igenom vad som ska hända i stället, råder Lisa.\
- – Det här gäller egentligen bara i början, för sen kommer barnen lösa det själva. Men jag tänker lite på samma sätt som om du vill minska din tid med mobilen. Då behöver man ju fundera kring vad man ska göra istället. Är det korsord? Är det sudoku? Är det att läsa? 
 
+ – Det här gäller egentligen bara i början, för sen kommer barnen lösa det själva. Men jag tänker lite på samma sätt som om du vill minska din tid med mobilen. Då behöver man ju fundera kring vad man ska göra istället. Är det korsord? Är det sudoku? Är det att läsa? 
 Att inte bara tänka att man ska minska någonting, vanor funkar inte så. Så fundera kring vad som ska hända i stället. Vad kan jag erbjuda? I vilka situationer brukar barnet be om skärm? Och vad ska jag då föreslå eller erbjuda?
 
 Lisa och hennes sambo bunkrade med Bamse-tidningar i början, men det finns många sätt att underlätta övergången. Ett ytterligare tips är att se över lekhörnan och kanske ta bort hälften av leksakerna.\
  – Så att det syns jättetydligt vad som finns att leka med, säger Lisa.
 
 
-Är det något som du önskar att du vetat innan du testade att minska skärmanvändandet?\
+
+**Är det något som du önskar att du vetat innan du testade att minska skärmanvändandet?\***
 – Ja, hur lätt det var. Definitivt. Hur lätt det var och hur mycket det skulle ge. Hade jag vetat det hade vi gjort det här för länge sedan.
 
 
