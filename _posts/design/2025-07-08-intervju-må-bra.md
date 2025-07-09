@@ -14,9 +14,9 @@ tags:
 #
 header: no
 image:
-    title: 4.jpg
-    thumb: 4.jpg
-    homepage: 4.jpg
+    title: ma_bra_img.jpg
+    thumb: ma_bra_img.jpg
+    homepage: ma_bra_img.jpg
     caption:
     caption_url: 
 ---
