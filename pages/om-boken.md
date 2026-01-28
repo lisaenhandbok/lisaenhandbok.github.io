@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Vad handlar ”Bortom skärmen” om?"
 subheadline: ""
-teaser: "Bortom skärmen - är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor utan att det blir bråk och tjat."
+teaser: "Bortom skärmen - en handbok för digital balans i barnfamiljen - är en konkret guide för dig som vill förändra era skärmvanor utan att bråk och tjat."
 header:
    image_fullwidth: "header1.png"
 permalink: "/om-boken/"
