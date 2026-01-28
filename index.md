@@ -1,32 +1,36 @@
 ---
 layout: page-fullwidth
-title:  "Minska skärmtid – en väg till mer lek, fantasi och lugn"
+title:  "Bortom skärmen"
 subheadline:  "FÖR DIG SOM VILL FÅ MER LEK I VARDAGEN"
-teaser: "Vill du minska skärmtiden för ditt barn men vet inte var du ska börja?"
+teaser: "Digital balans i barnfamiljen – en väg till mer lek, fantasi och lugn"
 # categories:
 #    - design
 header:
    image_fullwidth: header2.png
 ---
-**Kanske har du det som vi hade – inga egentliga problem med skärmtid
-(*och med det menar vi allt: tv, padda, mobil*).**
-Eller så är det en ständig förhandling och tjat om när.
+
+För många handlar skärmtid inte direkt om stora problem utan om ständiga förhandlingar.
+Tjat om när det är dags att stänga av och diskussioner som tar mer energi än man tänkt sig.
+
+Kanske känns det som att skärmtid hela tiden skaver i vardagen.
+Inte tillräckligt stort för att vara ett “problem” men tillräckligt för att du ska börja undra om det finns ett annat sätt.
 
 Kanske upplever du att ditt barn har svårt att leka själv –
 eller så har du bara börjat fundera:
 Vad skulle hända om vi testade något annat?
 
-**Den här boken är till för dig som vill skapa en vardag med mindre skärmtid för ditt barn, mer lek och mer fantasi – utan att det blir en kamp.**
+**Den här boken är till för dig som vill skapa en vardag med mindre skärmtid, mer lek och mer fantasi – utan att det blir en kamp.**
 
 Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde.
 
-**Resultatet förvånade oss. Och det var mycket enklare än vi hade föreställt oss.**
+**Resultatet förvånade oss. Och det var otroligt nog mycket enklare än vi hade föreställt oss.**
 
-I den här boken samlar vi allt vi lärt oss – konkreta verktyg, tips, rutiner
-och stöd från både forskning och andra familjer.
+I den här boken har vi samlat allt vi lärt oss längs vägen – konkreta verktyg, tips, rutiner,
+med stöd i både forskning och andra familjers erfarenheter.
 
 *Det behöver inte bli perfekt.*  
-**Men jag kan garantera att du inte kommer att ångra steget oavsett.** 
+Men det kan bli lugnare.
+Lättare än du tror.
 
 [Köp boken här >>][1]
 
