@@ -10,7 +10,7 @@ header:
 ---
 
 För många handlar skärmtid inte direkt om stora problem utan om ständiga förhandlingar.
-Tjat om när det är dags att stänga av och diskussioner som tar mer energi än man tänkt sig.
+Tjat om när det är dags att stänga av och diskussioner som tar onödigt mycket energi.
 
 Kanske känns det som att skärmtid hela tiden skaver i vardagen.
 Inte tillräckligt stort för att vara ett “problem” men tillräckligt för att du ska börja undra om det finns ett annat sätt.
