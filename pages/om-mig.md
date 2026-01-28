@@ -17,7 +17,7 @@ En sommar bestämde vi oss för att testa något nytt, att ta bort skärmen helt
 
 Det var ett infall, inget vi planerat länge eller gjorde för att vi tyckte det var ett stort problem. Hon såg en stund 30 min – 1h på kvällen så vi tyckte inte att vi var högkonsumenter.
 
-**Men resultatet överraskade oss.**/
+**Men resultatet överraskade oss.**
 
 **Hon blev så lugn. Lugnare än vi visste fanns i henne.**
 
