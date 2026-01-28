@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Vad handlar ”Minska skärmtid” om?"
+title: "Vad handlar ”Bortom skärmen” om?"
 subheadline: ""
-teaser: "Minska skärmtid är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor – tv, surfplatta, mobil – utan att det blir bråk och tjat."
+teaser: "Bortom skärmen - är en konkret handbok för dig som är nyfiken på att förändra era skärmvanor utan att det blir bråk och tjat."
 header:
    image_fullwidth: "header1.png"
 permalink: "/om-boken/"
