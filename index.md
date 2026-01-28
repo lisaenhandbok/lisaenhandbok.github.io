@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title:  "Bortom skärmen"
+title:  "Bortom skärmen - en handbok för digital balans i barnfamiljen"
 subheadline:  "FÖR DIG SOM VILL FÅ MER LEK I VARDAGEN"
-teaser: "Digital balans i barnfamiljen – en väg till mer lek, fantasi och lugn"
+teaser: "En väg till mer lek, fantasi och lugn"
 # categories:
 #    - design
 header:
