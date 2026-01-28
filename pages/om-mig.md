@@ -9,7 +9,7 @@ permalink: "/om-mig/"
 categories:
     - om-mig
 ---
-Jag heter Lisa och har i över 11 år arbetat med mindfulness, stresshantering och personlig utveckling för vuxna – men har alltid varit nyfiken på att skapa något för barn och familjeliv. Jag bor på Värmdö med min man och vår dotter.
+Jag heter Lisa och har i över 11 år arbetat med mindfulness, stresshantering och personlig utveckling för vuxna – men har alltid varit nyfiken på att skapa något för barn och familjeliv. Jag bor i Järvsö med min man och vår dotter.
 
 **Idén till den här boken om hur du kan minska skärmtiden för ditt barn föddes inte ur problem – utan ur nyfikenhet.**
 
@@ -29,10 +29,10 @@ Det väckte min nyfikenhet ännu mer. Jag började läsa forskningsrapporter om 
 
 Så småningom började jag också prata med andra föräldrar och samla tankar, verktyg och insikter. Det blev grunden till den här e-boken. 
 
-***En konkret guide för dig som vill utforska en vardag med mindre skärmtid – och mer lek, fantasi och lugn.***
+***En konkret guide för dig som vill utforska en vardag med mer lek, fantasi och lugn.***
 
 Mer om mig på Instagram: [@enhandbok][1] – där delar jag lite då och då bakom kulisserna\
-Och om mindfulness och stresshantering på mitt företagsinstagram: [@ilivera.se][2]
+Och om mindfulness och stresshantering på mitt företagsinstagram: [@lisas_mindfulness][2]
 
 **📩 Vill du komma i kontakt?\
 Mejla på: lisa@enhandbok.se**
