@@ -87,7 +87,7 @@ Boken innehåller en enkel och konkret steg-för-steg-plan för att:\
 <h3>Hur minskar man skärmtiden för barn?</h3>\
 Det är ju det som är frågan – och svaret är faktiskt inte så krångligt som man kan tro. 
 Det går att minska skärmtiden utan att bli aktivitetsledare dygnet runt. 
-I e-boken "Minska skärmtid" får du konkreta tips som funkar i vardagen – även när du lagar mat, borsta tänderna, vabbar eller reser. 
+I e-boken "Bortom skärmen" får du konkreta tips som funkar i vardagen – även när du lagar mat, borsta tänderna, vabbar eller reser. 
 
 Små förändringar, stor skillnad.
 
