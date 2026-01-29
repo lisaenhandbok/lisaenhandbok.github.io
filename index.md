@@ -23,7 +23,8 @@ Vad skulle hända om vi testade något annat?
 
 
 Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde.
-**Resultatet förvånade oss. Och det var så mycket enklare än vi hade föreställt oss.**
+**Resultatet förvånade oss.
+Och det var faktiskt mycket enklare än vi hade föreställt oss.**
 
 **I den här boken har vi samlat allt vi lärt oss längs vägen – konkreta verktyg, tips, rutiner,
 med stöd i både forskning och andra familjers erfarenheter.**
