@@ -21,11 +21,11 @@ Vad skulle hända om vi testade något annat?
 
 **Den här boken är till för dig som vill skapa en vardag med mindre skärmtid, mer lek och mer fantasi – utan att det blir en kamp.**
 
-Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde.
 
+Vi testade att ta bort skärmtiden helt under semestern – och det förändrade mer än vi trodde.
 **Resultatet förvånade oss. Och det var otroligt nog mycket enklare än vi hade föreställt oss.**
 
-I den här boken har vi samlat allt vi lärt oss längs vägen – konkreta verktyg, tips, rutiner,
+-> I den här boken har vi samlat allt vi lärt oss längs vägen – konkreta verktyg, tips, rutiner,
 med stöd i både forskning och andra familjers erfarenheter.
 
 *Det behöver inte bli perfekt.*  
